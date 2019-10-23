@@ -1,1 +1,1 @@
-# awesome-distributed-systems
+# Awesome Distributed Systems
